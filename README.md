@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ps1061
+- 👋 Hi, I’m Kartheek Lade
 - 👀 I’m interested in Hardware/IoT Security
 - 🌱 I’m currently learning *
 - 💞️ I’m looking to collaborate on learning marathons.
